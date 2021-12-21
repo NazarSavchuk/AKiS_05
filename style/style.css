@@ -25,7 +25,7 @@ p {
     "div_nav_area div_art_img3_area div_art_text3_area"
     "div_nav_area div_art_img3_area div_art_text3_area"
     "div_nav_area div_art_video_area div_art_video_area"
-    "div_nav_foot_area div_nav_foot_area div_nav_foot_area";
+    "div_foot_area div_foot_area div_foot_area";
 }
 .div_head {
     grid-area: div_head_area;
